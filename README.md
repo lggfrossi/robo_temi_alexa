@@ -1,2 +1,6 @@
 # robo_temi_alexa
-Esse repositório contém um arquivo .py com todo o código desenvolvido, um artigo científco com toda a documentação necessária e um link de um vídeo demonstrando a a execução prática do projeto
+Esse repositório contém:
+  - Um arquivo .py com todo o código desenvolvido;
+  - Um artigo científco com toda a documentação necessária;
+  - Um link de um vídeo demonstrando a a execução prática do projeto:
+      https://youtube.com/shorts/dsX9fNlh0bs?feature=share
